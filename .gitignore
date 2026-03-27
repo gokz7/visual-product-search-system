@@ -1,0 +1,8 @@
+venv/
+data/
+mlruns/
+*.h5
+*.index
+*.pkl
+mlflow.db
+__pycache__/
